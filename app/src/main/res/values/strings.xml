@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">InteractiveMicroApps</string>
+    <string name="dice_roll_button">Roll</string>
+</resources>
